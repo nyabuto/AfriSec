@@ -1,0 +1,14 @@
+SMAP
+manage_005fclients_jsp.java
+JSP
+*S JSP
+*F
++ 0 manage_clients.jsp
+manage_clients.jsp
++ 1 menu.jsp
+menu.jsp
+*L
+5,63:49
+5#1,201:112
+67#0,568:312
+*E
